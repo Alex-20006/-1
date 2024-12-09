@@ -1,0 +1,15 @@
+﻿"Урок 1.exe" (Win32). Загружено "C:\Users\Б - 2\Documents\Хлебников А.В\Урок 1\x64\Debug\Урок 1.exe". Символы загружены.
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x2010 завершился с кодом 0 (0x0).
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"Урок 1.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x2ecc завершился с кодом 0 (0x0).
+Поток 0x3770 завершился с кодом 0 (0x0).
+Программа "[13584] Урок 1.exe" завершилась с кодом 0 (0x0).
